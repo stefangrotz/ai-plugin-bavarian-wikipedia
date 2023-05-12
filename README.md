@@ -1,5 +1,5 @@
 # ai-plugins-vercel
 
 Bavarian wikipedia plugin for Open Assistant
-
-* https://stefang.uber.space/plugins/de-wiki/ai-plugin.json
+* https://ai-plugin-bavarian-wikipedia.vercel.app
+* https://stefang.uber.space/plugins/bar-wiki/ai-plugin.json
